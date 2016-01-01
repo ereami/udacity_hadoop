@@ -16,8 +16,8 @@ This files represent my efforts to complete the Udacity Intro to Hadoop and Big 
 
 2. Student Times
 
-  * [src/student_times_reducer.py](src/student_times_reducer.py)
   * [src/student_times_mapper.py](src/student_times_mapper.py)
+  * [src/student_times_reducer.py](src/student_times_reducer.py)
 
 3. Posts and answers
 
